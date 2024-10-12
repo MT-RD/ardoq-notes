@@ -1,2 +1,2 @@
-# ardoq-notes
-Ardoq
+# Ardoq Notes
+
